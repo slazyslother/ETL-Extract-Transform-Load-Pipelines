@@ -13,6 +13,7 @@ This project involves creating an ETL (Extract, Transform, Load) pipeline to ext
 - __Monitoring and Alerts__: Implement monitoring and alerts to track the ETL process and detect issues.
 
 <br/>
+
 ## Utility Functions
 
 - __Extraction Scripts__: Scripts to extract data from various sources.
@@ -22,6 +23,7 @@ This project involves creating an ETL (Extract, Transform, Load) pipeline to ext
 - __Data Quality Checks__: Scripts or configurations to validate data quality at different stages of the ETL pipeline.
 - __Monitoring and Alerting__: Implement monitoring tools and alerting mechanisms to detect and respond to issues.
 <br/>
+
 ## Implementation
 
 - __Data Extraction__: Develop extraction scripts or use connectors provided by tools like Talend to extract data from various sources.
